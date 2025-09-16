@@ -1,5 +1,9 @@
 **Coji TV Browser**
 
+Play Store link: https://play.google.com/store/apps/details?id=mvl.studio.tvlite
+
+Download apk link: https://github.com/MVLStudio/cojibrowser/releases
+
 Coji TV Browser is a smart and lightweight web browser built for Android TV.
 It works smoothly on TVs and TV boxes from Sony, TCL, Casper, Mi, Coocaa, and more.
 
