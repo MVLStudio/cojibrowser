@@ -1,4 +1,4 @@
-Coji TV Browser
+**Coji TV Browser**
 
 Coji TV Browser is a smart and lightweight web browser built for Android TV.
 It works smoothly on TVs and TV boxes from Sony, TCL, Casper, Mi, Coocaa, and more.
